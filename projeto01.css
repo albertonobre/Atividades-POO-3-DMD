@@ -1,0 +1,44 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    margin: 70px;
+    font-size: 25px;
+}
+
+main{
+    /* border: 2px solid red; */
+    width: 80%;
+    margin:0 auto ;
+    line-height: 1.8em ;
+    text-align: justify;
+    text-indent: 50px;
+}
+
+h2{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+}
+
+p{
+    margin-top: 15px;
+}
+
+figure{
+    /* border: 2px solid black; */
+    text-indent: 0;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    border-radius: 50%;
+    box-shadow: 5px 5px 9px #000;
+}
